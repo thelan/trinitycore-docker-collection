@@ -10,11 +10,12 @@ The current image are not optimized as the whole source code is keept (for rebui
 Build Status
 -------
 
-| Version       | Commit                                                                                                                               | Status | Remarks            |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------ |
-| 9.2.0.42560   | [c19863745addec42cf8e1cd77f3daf10fa25ae16](https://github.com/TrinityCore/TrinityCore/tree/c19863745addec42cf8e1cd77f3daf10fa25ae16) |   ✔️    |                    |
-| 9.1.5.41488   | [c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a](https://github.com/TrinityCore/TrinityCore/tree/c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a) |   ✔️    |                    |
-| 8.3.7.35662   | [f4b4425862dab8ea743d9fa52097f7d742984a59](https://github.com/TrinityCore/TrinityCore/tree/f4b4425862dab8ea743d9fa52097f7d742984a59) |   ✔️    |                    |
+| Version       | Commit                                                                                                                               | Status | Remarks       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------ |---------------|
+| 9.2.0.42560   | [c19863745addec42cf8e1cd77f3daf10fa25ae16](https://github.com/TrinityCore/TrinityCore/tree/c19863745addec42cf8e1cd77f3daf10fa25ae16) |   ✔️   |               |
+| 9.1.5.41488   | [c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a](https://github.com/TrinityCore/TrinityCore/tree/c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a) |   ✔️   |               |
+| 8.3.7.35662   | [f4b4425862dab8ea743d9fa52097f7d742984a59](https://github.com/TrinityCore/TrinityCore/tree/f4b4425862dab8ea743d9fa52097f7d742984a59) |   ✔️   |               |
+| 7.3.5.26124   | [31f6ba5a92b0f88f328e0e6adcf33bd4820599c2](https://github.com/TrinityCore/TrinityCore/tree/31f6ba5a92b0f88f328e0e6adcf33bd4820599c2) |   ❌️    | Openssl Error |
 
 Public images
 --------------
