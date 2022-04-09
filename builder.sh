@@ -56,7 +56,7 @@ do
 	test -d $vers || fail "directory ${vers} not found"
 	cd $vers
 	test -f Dockerfile || fail "Dockerfile not found in $(pwd)"
-	docker build -t ${DOCKER_BASEIMAGE}:${vers} .
+	docker build -t ${DOCKER_BASEIMAGE}:${vers} . || exit 1
 	if [ ${DOCKER_PUSH} == "true" ]
 	then
 		docker push ${DOCKER_BASEIMAGE}:${vers}
