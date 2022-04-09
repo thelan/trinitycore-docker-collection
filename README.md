@@ -22,7 +22,7 @@ Public images
 
 | Version       |  Image                                                   |
 | ------------- |  ------------------------------------------------------- |
-| 9.1.5.41488   | `docker-public.servme.fr/servme/trinitycore:9.2.0.42560` |
+| 9.2.0.42560   | `docker-public.servme.fr/servme/trinitycore:9.2.0.42560` |
 | 9.1.5.41488   | `docker-public.servme.fr/servme/trinitycore:9.1.5.41488` |
 | 8.3.7.35662   | `docker-public.servme.fr/servme/trinitycore:8.3.7.35662` |
 
