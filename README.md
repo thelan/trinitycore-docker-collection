@@ -12,6 +12,7 @@ Build Status
 
 | Version       | Commit                                                                                                                               | Status | Remarks       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------ |---------------|
+| 9.2.7.45161   | [0eff4ec7df6d34db28e09582f3e2a257bc7d35b0](https://github.com/TrinityCore/TrinityCore/tree/0eff4ec7df6d34db28e09582f3e2a257bc7d35b0) |   ✔️   |               |
 | 9.2.0.42560   | [c19863745addec42cf8e1cd77f3daf10fa25ae16](https://github.com/TrinityCore/TrinityCore/tree/c19863745addec42cf8e1cd77f3daf10fa25ae16) |   ✔️   |               |
 | 9.1.5.41488   | [c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a](https://github.com/TrinityCore/TrinityCore/tree/c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a) |   ✔️   |               |
 | 8.3.7.35662   | [f4b4425862dab8ea743d9fa52097f7d742984a59](https://github.com/TrinityCore/TrinityCore/tree/f4b4425862dab8ea743d9fa52097f7d742984a59) |   ✔️   |               |
@@ -22,6 +23,7 @@ Public images
 
 | Version       |  Image                                                   |
 | ------------- |  ------------------------------------------------------- |
+| 9.2.7.45161   | `docker-public.servme.fr/servme/trinitycore:9.2.7.45161` |
 | 9.2.0.42560   | `docker-public.servme.fr/servme/trinitycore:9.2.0.42560` |
 | 9.1.5.41488   | `docker-public.servme.fr/servme/trinitycore:9.1.5.41488` |
 | 8.3.7.35662   | `docker-public.servme.fr/servme/trinitycore:8.3.7.35662` |
