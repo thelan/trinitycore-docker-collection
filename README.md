@@ -12,21 +12,25 @@ Build Status
 
 | Version       | Commit                                                                                                                               | Status | Remarks       |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------ |---------------|
+| 10.0.2.47213  | [731217703819c26645944091f47aec63b45c25d4](https://github.com/TrinityCore/TrinityCore/tree/731217703819c26645944091f47aec63b45c25d4) |   ✔️   |               |
 | 9.2.7.45161   | [0eff4ec7df6d34db28e09582f3e2a257bc7d35b0](https://github.com/TrinityCore/TrinityCore/tree/0eff4ec7df6d34db28e09582f3e2a257bc7d35b0) |   ✔️   |               |
 | 9.2.0.42560   | [c19863745addec42cf8e1cd77f3daf10fa25ae16](https://github.com/TrinityCore/TrinityCore/tree/c19863745addec42cf8e1cd77f3daf10fa25ae16) |   ✔️   |               |
-| 9.1.5.41488   | [c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a](https://github.com/TrinityCore/TrinityCore/tree/c5d3bd2cdd8f5ccf0d458fd9a97f315d87c1113a) |   ✔️   |               |
+| 9.1.5.42010   | [f96c8cc39ba15d7c9f0784428b9bbcbca4665370](https://github.com/TrinityCore/TrinityCore/tree/f96c8cc39ba15d7c9f0784428b9bbcbca4665370) |   ✔️   |               |
+| 9.1.5.41488   | [7bc3a92b2c7f546408edd32beb2c5cabdda6616b](https://github.com/TrinityCore/TrinityCore/tree/7bc3a92b2c7f546408edd32beb2c5cabdda6616b) |   ✔️   |               |
 | 8.3.7.35662   | [f4b4425862dab8ea743d9fa52097f7d742984a59](https://github.com/TrinityCore/TrinityCore/tree/f4b4425862dab8ea743d9fa52097f7d742984a59) |   ✔️   |               |
 | 7.3.5.26124   | [31f6ba5a92b0f88f328e0e6adcf33bd4820599c2](https://github.com/TrinityCore/TrinityCore/tree/31f6ba5a92b0f88f328e0e6adcf33bd4820599c2) |   ❌️    | Openssl Error |
 
 Public images
 --------------
 
-| Version       |  Image                                                   |
-| ------------- |  ------------------------------------------------------- |
-| 9.2.7.45161   | `docker-public.servme.fr/servme/trinitycore:9.2.7.45161` |
-| 9.2.0.42560   | `docker-public.servme.fr/servme/trinitycore:9.2.0.42560` |
-| 9.1.5.41488   | `docker-public.servme.fr/servme/trinitycore:9.1.5.41488` |
-| 8.3.7.35662   | `docker-public.servme.fr/servme/trinitycore:8.3.7.35662` |
+| Version       |  Image                                                    |
+| ------------- |  -------------------------------------------------------- |
+| 10.0.2.47213  | `docker-public.servme.fr/servme/trinitycore:10.0.2.47213` |
+| 9.2.7.45161   | `docker-public.servme.fr/servme/trinitycore:9.2.7.45161`  |
+| 9.2.0.42560   | `docker-public.servme.fr/servme/trinitycore:9.2.0.42560`  |
+| 9.1.5.42010   | `docker-public.servme.fr/servme/trinitycore:9.1.5.42010`  |
+| 9.1.5.41488   | `docker-public.servme.fr/servme/trinitycore:9.1.5.41488`  |
+| 8.3.7.35662   | `docker-public.servme.fr/servme/trinitycore:8.3.7.35662`  |
 
 Running the images
 -------------------
