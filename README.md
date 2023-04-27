@@ -5,7 +5,7 @@ This project is a collection of docker file intended to build [trinity-core](htt
 
 This project is not affiliated with trinity-core and is provided as-is.
 
-The current image are not optimized as the whole source code is keept (for rebuild / debugging purpose) inside the final image.
+The current image are not optimized as the whole source code is kept (for rebuild / debugging purpose) inside the final image.
 
 Build Status
 -------
