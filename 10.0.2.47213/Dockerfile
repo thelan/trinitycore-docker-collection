@@ -9,8 +9,8 @@ ARG COMMIT=8865a51e3f9b3fb416eed50464a08f63cce03508
 RUN git clone -b master https://github.com/TrinityCore/TrinityCore.git && cd TrinityCore && git checkout ${COMMIT}
 ARG NBPROC=1
 
-ADD patches /usr/src/patches/
-RUN cd /usr/src/TrinityCore && git apply /usr/src/patches/*
+#ADD patches /usr/src/patches/
+#RUN cd /usr/src/TrinityCore && git apply /usr/src/patches/*
 
 RUN cd /usr/src/TrinityCore && mkdir build && cd build && \
     cmake .. -DCMAKE_INSTALL_PREFIX=/opt/trinitycore -DCONF_DIR=/opt/trinitycore/conf -DTOOLS=1 && \
